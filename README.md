@@ -15,8 +15,8 @@ The **Duck’N’FAI Backend** is the server-side component of the Duck’N’FA
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WeTranscend-labs/be-Duck’N’FAI.git
-   cd be-Duck’N’FAI
+   git clone https://github.com/WeTranscend-labs/be-Duck-N-FAI.git
+   cd be-Duck-N-FAI
    ```
 2. Install dependencies:
    ```bash
