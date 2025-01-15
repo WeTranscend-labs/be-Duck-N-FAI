@@ -4,9 +4,6 @@
 ## Project Overview
 The **DuckStrike Backend** is the server-side component of the DuckStrike platform, designed to support seamless cryptocurrency management and AI-powered interactions. It integrates blockchain technology, cryptocurrency APIs, and AI models to enable real-time transaction processing, market analysis, and personalized assistance for users.
 
-## Deployment
-To deploy this project locally, you can use the following steps to set up the environment and launch the application.
-
 ## Getting Started
 
 ### Prerequisites
