@@ -17,7 +17,7 @@ To deploy this project locally, you can use the following steps to set up the en
 1. Clone the repository:
     ```bash
     git clone https://github.com/WeTranscend-labs/be-duckstrike.git
-    cd be-fuck-strike
+    cd be-duckstrike
     ```
 2. Install dependencies:
     ```bash
